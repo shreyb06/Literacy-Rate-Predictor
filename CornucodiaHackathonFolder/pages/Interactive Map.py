@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 24 12:50:36 2023
-
-@author: shrey
 """
 
 
